@@ -1,0 +1,5 @@
+This program in c++ reads .obj file's content
+and displays the object in 3d wireframe model 
+using opengl
+
+you need to have opengl to compile this project
